@@ -8,11 +8,11 @@
   angular
     .module('app', [
       'ngRoute',
-      'app.home'
-      // 'app.writing',
-      // 'app.work'
+      'app.home',
+      // 'app.writing'
+      'app.work'
     ])
     .config(['$locationProvider', function($locationProvider) {
-      $locationProvider.html5Mode(true);
+      // $locationProvider.html5Mode(true);
     }]);
 })();
