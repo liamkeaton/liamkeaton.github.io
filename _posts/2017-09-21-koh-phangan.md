@@ -3,7 +3,7 @@ layout: post
 title: Koh Phangan
 date: 2017-09-21 00:00:00 +0000
 tags: travel
-excerpt: ""
+excerpt: "Taking the night bus to Koh Phangan was an experience, it was the cheapest way to get to the islands and counted as accommodation for the night, win win."
 ---
 
 ## Night bus
