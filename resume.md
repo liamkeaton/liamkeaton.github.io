@@ -31,8 +31,8 @@ I have developed PHP websites so Cancer Research UK can receive donations, kept 
       <h3 class="resume-h3">Frameworks</h3>
       <p class="post-meta">In order of experience</p>
       <ul>
-        <li>Zend Framework</li>
         <li>AngularJS</li>
+        <li>Zend Framework</li>
         <li>Express</li>
         <li>jQuery</li>
         <li>Backbone</li>
@@ -78,7 +78,13 @@ I have developed PHP websites so Cancer Research UK can receive donations, kept 
 
 Cohaesus architects, builds and improves digital products and services for forward thinking clients.
 
-* Responsible for Open Source Application and API builds
+* Headed the open source applications and API practice
+* Rearchitected an Angular 2 application
+* Architected and lead the team building a PHP API for digital railcards
+* Setup the build chains using AWS, Microsoft Team Services and Travis
+* Produced API documentation and prototyped endpoints with Swagger
+* Used AWS CloudFormation to describe and provision infrastructures
+* Produced serverless workflows with AWS Step Fuctions and AWS Lambda
 {: .resume-spacer}
 
 ### Technical Product Lead / Tictrac
