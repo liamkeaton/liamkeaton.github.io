@@ -4,71 +4,35 @@ title: Resume
 permalink: /resume/
 ---
 
-Over 10 years web development experience, leading teams and projects across the full open source web stack (Linux, PHP, Python, MySQL, JavaScript, HTML, CSS).
-
-I have developed PHP websites so Cancer Research UK can receive donations, kept servers running smoothly for Tesco Mobile's two million monthly visitors, and built JavaScript applications that advertise how Google Insights can help businesses.
-<br /><br />
+Full stack web developer with 13 years experience architecting, building, hosting, maintaining and securing open source web applications (JavaScript, Node, PHP, Python).
 
 ## Skills
 
 <table class="resume-skills">
-  <tr>
-    <td>
-      <h3 class="resume-h3">Languages</h3>
-      <p class="post-meta">In order of experience</p>
-      <ul>
-        <li>JavaScript</li>
-        <li>PHP</li>
-        <li>HTML</li>
-        <li>XML</li>
-        <li>Python</li>
-        <li>CSS</li>
-        <li>Java</li>
-        <li>Objective C</li>
-        <li>C</li>
-      </ul>
-
-      <h3 class="resume-h3">Frameworks</h3>
-      <p class="post-meta">In order of experience</p>
-      <ul>
-        <li>AngularJS</li>
-        <li>Zend Framework</li>
-        <li>Express</li>
-        <li>jQuery</li>
-        <li>Backbone</li>
-        <li>Django</li>
-        <li>React</li>
-      </ul>
-    </td>
-    <td>
-      <h3 class="resume-h3">Software</h3>
-      <ul>
-        <li>OS X</li>
-        <li>Linux</li>
-        <li>AWS</li>
-        <li>SSH</li>
-        <li>Git</li>
-        <li>Node</li>
-        <li>Jenkins</li>
-        <li>Grunt</li>
-        <li>Docker</li>
-        <li>NPM</li>
-        <li>Apache</li>
-        <li>Nginx</li>
-        <li>Varnish</li>
-        <li>MySQL</li>
-        <li>Redis</li>
-        <li>JIRA</li>
-        <li>Selenium</li>
-        <li>Protractor</li>
-        <li>Karma</li>
-        <li>Jasmine</li>
-        <li>Nikto</li>
-        <li>ClamAV</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+  <td>
+    <ul>
+      <li>JavaScript (13 years)</li>
+      <li>Node (3 years)</li>
+      <li>PHP (10 years)</li>
+      <li>Python (2 years)</li>
+      <li>Express, Angular 1 & 2, Lumen, Zend Framework, Django</li>
+      <li>AWS - EC2, S3, Cloud Formation, Code Deploy, Lambda, Step Functions</li>
+      <li>Grunt, Gulp, Jenkins, Travis, JIRA, GitHub, BitBucket</li>
+      <li>Seasoned team leader and line manager</li>
+      <li>Experience with security audits and risk management</li>
+    </ul>
+  </td>
+</tr>
 </table>
+
+## Achievements
+
+Abstracted the API data layer of an Angular application to a vanilla JavaScript SDK. Developers could use the SDK to create quick prototypes, embed within mobile applications and eventually migrate or upgrade the Angular application more easily.
+
+Automated the development, build and deployment chain using Grunt and JavaScript. Deployments became easier and repeatable and onboarding new developers with the codebase went from a few days to a few hours.
+
+Codified a complete high availability infrastructure using AWS CloudFormation. New environments could be stood up within minutes and during load testing changes to EC2 and RDS instances could be quickly applied and tested.
 
 ##  Experience
 
