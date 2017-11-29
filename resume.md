@@ -67,7 +67,7 @@ A digital health platform designed to help people live better.
 {: .resume-h3}
 <p class="post-meta">November 2009 - September 2014, London</p>
 
-A fast growing digital advertising agency recently acquired by WPP.
+A fast growing digital advertising agency acquired by WPP.
 
 * Joined as a developer and was promoted several times.
 * Proved myself capable of leading the team and being responsible for its technical direction.
