@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img src="/assets/background.jpeg" />
+<img src="/assets/background.jpg" />
 
 <h1>Latest</h1>
 <ul class="post-list">
