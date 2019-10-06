@@ -16,7 +16,7 @@ We arrived at our AirBnB on Geylang Road slightly later than planned after havin
 
 ## The move
 
-After spending a couple of days exploring Singapore from our Geylang home we got a message during dinner. Our host had got feedback from a previous guest about a neighbor questioning them about being there. Apparently AirBnb isn't exactly legal in Singapore and this spooked our host who asked us to move into an hotel. A little perturbed we packed up our things and headed to a brand new hotel in the Bugis area of the city. This turned out to be incredibly central and our exploring of the city continued by foot.
+After spending a couple of days exploring Singapore from our Geylang home we got a message during dinner. Our host had got feedback from a previous guest about a neighbour questioning them about being there. Apparently AirBnb isn't exactly legal in Singapore and this spooked our host who asked us to move into an hotel. A little perturbed we packed up our things and headed to a brand new hotel in the Bugis area of the city. This turned out to be incredibly central and our exploring of the city continued by foot.
 
 ## Fountain of Wealth
 
@@ -40,4 +40,4 @@ If you want to be hurled into the air in a metal ball attached to a some elastic
 
 ## Leaving
 
-Singapore airport was a short Uber ride away from the downtown core. A large airport with lots to do and see including day trips for transit passengers, free film showings and a outside bar within a cactus garden. With little time to enjoy these things we were soon on a plane heading for a short stop in the Gold Coast before our destination, Christchurch New Zealand.
+Singapore airport was a short Uber ride away from the down town core. A large airport with lots to do and see including day trips for transit passengers, free film showings and a outside bar within a cactus garden. With little time to enjoy these things we were soon on a plane heading for a short stop in the Gold Coast before our destination, Christchurch New Zealand.

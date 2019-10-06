@@ -8,7 +8,7 @@ excerpt: "We landed in Christchurch in the afternoon, the sun was shinning but t
 
 ## Arrival
 
-We landed in Christchurch in the afternoon, the sun was shinning but the air had lost its heat. After many weeks in East Asia we were used to a more temperate climate. We took the bus from the small airport downtown passing small estates of bungalows and parks. If it weren't for the corrugated iron roofs you could of sworn you were in the UK. As we entered the town centre, the grid system and small square retail units reminded you much more of the USA.
+We landed in Christchurch in the afternoon, the sun was shinning but the air had lost its heat. After many weeks in East Asia we were used to a more temperate climate. We took the bus from the small airport down town passing small estates of bungalows and parks. If it weren't for the corrugated iron roofs you could have sworn you were in the UK. As we entered the town centre, the grid system and small square retail units reminded you much more of the USA.
 
 
 ## Breakfree
@@ -28,7 +28,7 @@ One morning we stopped at quirky coffee place for breakfast. The building was a 
 
 ## Trams
 
-I've a hatred of trams. They are neither busses nor trains. They are a hideous silent hybrid that sneak up you wounding the road with metal scars. Needless to say I didn't think I would enjoy the tram ride. After climbing onto the wooden carriage of the 100+ year old imported tram we slowly crept around the city. The conductor gave great descriptions of the buildings as we passed and filled us in on the history as well as the future plans for the city. Much of the line passed road works and construction, having to stop so it could be let through gates every so often. I am still not a fan of trams, but I would much prefer to be inside of one than being chased by them.
+I've a hatred of trams. They are neither a bus nor a train. They are a hideous silent hybrid that sneak up you wounding the road with metal scars. Needless to say I didn't think I would enjoy the tram ride. After climbing onto the wooden carriage of the 100+ year old imported tram we slowly crept around the city. The conductor gave great descriptions of the buildings as we passed and filled us in on the history as well as the future plans for the city. Much of the line passed road works and construction, having to stop so it could be let through gates every so often. I am still not a fan of trams, but I would much prefer to be inside of one than being chased by them.
 
 
 ## Leaving
