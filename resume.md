@@ -12,15 +12,13 @@ Open source full stack web developer and team lead with over 15 years of experie
 <tr>
   <td>
     <ul>
-      <li>JavaScript (15 years)</li>
-      <li>Node (5 years)</li>
-      <li>PHP (10 years)</li>
-      <li>Python (2 years)</li>
-      <li>Express, Angular 1 & 2, Lumen, Zend Framework, Django</li>
-      <li>AWS - EC2, S3, Cloud Formation, Code Deploy, Lambda, Step Functions</li>
-      <li>Grunt, Gulp, Jenkins, Travis, JIRA, GitHub, BitBucket</li>
       <li>Seasoned team leader and line manager</li>
       <li>Experience with security audits and risk management</li>
+      <li>JavaScript (15 years)</li>
+      <li>Node (5 years)</li>
+      <li>Express, Angular, Lumen, Zend Framework, Django</li>
+      <li>AWS - EC2, S3, Cloud Formation, Code Deploy, Lambda, Step Functions</li>
+      <li>Circle CI, Heroku, Jenkins, Travis, JIRA, GitHub</li>
     </ul>
   </td>
 </tr>
