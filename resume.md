@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-Full stack web developer with 13 years experience architecting, building, hosting, maintaining and securing open source web applications (JavaScript, Node, PHP, Python).
+Open source full stack web developer and team lead with over 15 years of experience
 
 ## Skills
 
@@ -12,8 +12,8 @@ Full stack web developer with 13 years experience architecting, building, hostin
 <tr>
   <td>
     <ul>
-      <li>JavaScript (13 years)</li>
-      <li>Node (3 years)</li>
+      <li>JavaScript (15 years)</li>
+      <li>Node (5 years)</li>
       <li>PHP (10 years)</li>
       <li>Python (2 years)</li>
       <li>Express, Angular 1 & 2, Lumen, Zend Framework, Django</li>
@@ -28,13 +28,34 @@ Full stack web developer with 13 years experience architecting, building, hostin
 
 ## Achievements
 
-Abstracted the API data layer of an Angular application to a vanilla JavaScript SDK. Developers could use the SDK to create quick prototypes, embed within mobile applications and eventually migrate or upgrade the Angular application more easily.
-
-Automated the development, build and deployment chain using Grunt and JavaScript. Deployments became easier and repeatable and onboarding new developers with the codebase went from a few days to a few hours.
-
 Codified a complete high availability infrastructure using AWS CloudFormation. New environments could be stood up within minutes and during load testing changes to EC2 and RDS instances could be quickly applied and tested.
 
-##  Experience
+Abstracted the data layer of an Angular application to a vanilla JavaScript SDK. Developers could use the SDK to create quick prototypes, embed within mobile applications and eventually migrate or upgrade the Angular application more easily.
+
+Automated a development, build and deployment chain. Deployments became easier and repeatable and onboarding new developers with the codebase went from a few days to a few hours.
+
+## Experience
+
+### Senior Full-Stack Engineer / Financial Times (Contract)
+{: .resume-h3}
+<p class="post-meta">February 2018 - Present, London</p>
+
+The Financial Times consumer products team looks after the award winning FT.com website and application.
+
+* Lead the Conversion Team tasked with subscriptions and pay walls
+* Set a clear roadmap to refresh the code we managed
+* Rebuilt the ageing subscription forms which increased conversions by 2%
+* Merged and decommissioned old applications to reduce our maintenance overhead
+* Oversaw the creation of an SDK for our internal membership services
+* Handled A/B testing on the pay walls to experiment with sales and design changes
+{: .resume-spacer}
+
+### Travelling
+{: .resume-h3}
+<p class="post-meta">September 2017 - February 2018, Thailand, Malaysia, Singapore, New Zealand and Japan</p>
+
+Took a short break to go travelling which you can read all about on my website [liamkeaton.com](https://liamkeaton.com/writing/).
+{: .resume-spacer}
 
 ### Technical Director / Cohaesus
 {: .resume-h3}
@@ -48,13 +69,15 @@ Cohaesus architects, builds and improves digital products and services for forwa
 * Setup the build chains using AWS, Microsoft Team Services and Travis
 * Produced API documentation and prototyped endpoints with Swagger
 * Used AWS CloudFormation to describe and provision infrastructures
-* Produced serverless workflows with AWS Step Fuctions and AWS Lambda
+* Produced serverless workflows with AWS Step Functions and AWS Lambda
 {: .resume-spacer}
 
 ### Technical Product Lead / Tictrac
 {: .resume-h3}
 <p class="post-meta">September 2014 - December 2016, London</p>
+
 A digital health platform designed to help people live better.
+
 * Leading and line managing the HTML, CSS and JavaScript development team.
 * Designing and helping develop the AngularJS application and Node server.
 * Implemented JavaScript unit testing with Karma and end to end testing with Protractor.
