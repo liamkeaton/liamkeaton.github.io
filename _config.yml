@@ -17,7 +17,7 @@ title: Liam Keaton
 email: liamkeaton@gmail.com
 author:
 description: >
-  I'm an engineer building things with open source web technologies.
+  Software engineer building things with open source web technologies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://liamkeaton.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liamkeaton
